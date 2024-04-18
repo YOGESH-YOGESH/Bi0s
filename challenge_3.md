@@ -2,7 +2,8 @@
  
 ## Circuit
 
-![2ARDUINO](<Screenshot 2024-04-18 at 9.39.42 PM.png>)
+![image](https://github.com/weanysel/Bi0s/assets/69642777/9462529b-a2c9-44c2-a590-a2d8c76121ad)
+
 
 ## Code
 
