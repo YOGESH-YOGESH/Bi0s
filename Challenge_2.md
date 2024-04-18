@@ -2,7 +2,8 @@
 
 ## Circuit
 
-![Bare metal](<Screenshot 2024-04-18 at 7.30.29 PM.png>)
+![BAREMETAL](https://github.com/weanysel/Bi0s/assets/69642777/659135ea-3ba2-4689-96c0-a9a28367d5e3)
+
 
 ## Given code
 
