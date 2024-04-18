@@ -59,3 +59,6 @@ S2-13-1
 - While connecting the inputs for the mux.  
 
 ## Resources used
+
+- [Arduino Mux](https://youtu.be/Dco6jo9xgAo?si=D8ANi6oLj1grUkcg)
+- [BitRead](https://www.tutorialspoint.com/read-a-specific-bit-of-a-number-with-arduino)
