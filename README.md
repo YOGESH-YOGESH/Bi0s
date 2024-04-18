@@ -7,4 +7,4 @@
 |[Challenge 5](./challenge-5)](https://wokwi.com/projects/395425423489218561)   | ceasar cipher              | Completed      |
 |  | 16x2 led                   | Completed      |
 |Challenge 7     | mitm attack                | Unattempted    |
-|[Challenge 8](./challenge-7)   | traffic light              | Completed      |
+|   | traffic light              | Completed      |
