@@ -1,7 +1,8 @@
 # CHALLENGE 1
 
 ## Circuit
-![MUX 8:1](<Screenshot 2024-04-18 at 12.11.07 AM.png>)
+![image](https://github.com/weanysel/Bi0s/assets/69642777/e61f7b0c-53d6-4587-a972-8b3f72081a58)
+
 
 ## code
 
