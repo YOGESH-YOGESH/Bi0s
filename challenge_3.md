@@ -1,8 +1,9 @@
-# Challenge 2
+# Challenge 3
  
 ## Circuit
 
-![image](https://github.com/weanysel/Bi0s/assets/69642777/9462529b-a2c9-44c2-a590-a2d8c76121ad)
+![image](https://github.com/weanysel/Bi0s/assets/69642777/a347c415-1452-4eba-a10f-bc79788505c1)
+
 
 
 ## Code
