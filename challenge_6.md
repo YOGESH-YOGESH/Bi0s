@@ -1,8 +1,9 @@
-# Challenge 2
+# Challenge 6
 
 ## Circuit
 
-![16x2 LCD](<Screenshot 2024-04-14 at 1.16.37 AM.png>)
+![image](https://github.com/weanysel/Bi0s/assets/69642777/da795435-112f-4b83-bc97-ea2ac6726df5)
+
 
 ## Explanation
 
