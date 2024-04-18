@@ -1,7 +1,8 @@
 # Challenge 4
 
 ## Circuit
-![KEYPAD](<Screenshot 2024-04-18 at 9.38.00 PM.png>)
+![image](https://github.com/weanysel/Bi0s/assets/69642777/4c4234e4-a1fb-4d5f-bb7f-02b054baa55c)
+
 ## Code
 
 ``` cpp
